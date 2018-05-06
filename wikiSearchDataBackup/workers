@@ -1,0 +1,13 @@
+{"couponCost": 0, "shopLevelReq": 0, "goldCost": 0, "id": 1, "name": "worker"}
+{"couponCost": 1, "shopLevelReq": 2, "goldCost": 100, "id": 2, "name": "blacksmith"}
+{"couponCost": 3, "shopLevelReq": 10, "goldCost": 10000, "id": 3, "name": "armorer"}
+{"couponCost": 10, "shopLevelReq": 16, "goldCost": 125000, "id": 4, "name": "tinkerer"}
+{"couponCost": 1, "shopLevelReq": 2, "goldCost": 100, "id": 5, "name": "carpenter"}
+{"couponCost": 3, "shopLevelReq": 14, "goldCost": 10000, "id": 6, "name": "bowyer"}
+{"couponCost": 10, "shopLevelReq": 18, "goldCost": 125000, "id": 7, "name": "luthier"}
+{"couponCost": 1, "shopLevelReq": 7, "goldCost": 100, "id": 8, "name": "tailor"}
+{"couponCost": 3, "shopLevelReq": 10, "goldCost": 10000, "id": 9, "name": "leather-worker"}
+{"couponCost": 10, "shopLevelReq": 17, "goldCost": 125000, "id": 10, "name": "jeweler"}
+{"couponCost": 5, "shopLevelReq": 15, "goldCost": 25000, "id": 11, "name": "sorceress"}
+{"couponCost": 1, "shopLevelReq": 2, "goldCost": 100, "id": 12, "name": "druid"}
+{"couponCost": 25, "shopLevelReq": 40, "goldCost": 450000, "id": 13, "name": "enchanter"}

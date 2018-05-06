@@ -1,0 +1,121 @@
+{"name": "remarkable", "reward": ["500", "gold"], "requirement": "Reach fame level 10"}
+{"name": "well known", "reward": ["2", "platinum hammer"], "requirement": "Reach fame level 25"}
+{"name": "famous", "reward": ["1", "starry coupon"], "requirement": "Reach fame level 40"}
+{"name": "kingly", "reward": ["2", "mystical hourglass"], "requirement": "Reach fame level 60"}
+{"name": "worldly", "reward": ["plateoftherenown"], "requirement": "Reach fame level 100"}
+{"name": "apprentice merchant", "reward": ["strong_herbs"], "requirement": "Make 5,000 gold pieces in sales"}
+{"name": "adept merchant", "reward": ["1", "platinum hammer"], "requirement": "Make 25,000 gold pieces in sales"}
+{"name": "great merchant", "reward": ["1", "mystical hourglass"], "requirement": "Make 100,000 gold pieces in sales"}
+{"name": "master merchant", "reward": ["2", "starry coupon"], "requirement": "Make 1,000,000 gold pieces in sales"}
+{"name": "expert merchant", "reward": ["solaxe"], "requirement": "Make 10,000,000 gold pieces in sales"}
+{"name": "hoarder 1", "reward": ["1", "platinum hammer"], "requirement": "End your day with at least 5,000 gold pieces"}
+{"name": "hoarder 2", "reward": ["5000", "gold"], "requirement": "End your day with at least 50,000 gold pieces"}
+{"name": "hoarder 3", "reward": ["frostshuriken"], "requirement": "End your day with at least 250,000 gold pieces"}
+{"name": "hoarder 4", "reward": ["2", "mystical hourglass"], "requirement": "End your day with at least 500,000 gold pieces"}
+{"name": "hoarder 5", "reward": ["belial"], "requirement": "End your day with at least 1,000,000 gold pieces"}
+{"name": "craftsman 1", "reward": ["1", "platinum hammer"], "requirement": "Craft 50 items"}
+{"name": "craftsman 2", "reward": ["rareitem_acid"], "requirement": "Craft 250 items"}
+{"name": "craftsman 3", "reward": ["1", "mystical hourglass"], "requirement": "Craft 5,000 items"}
+{"name": "craftsman 4", "reward": ["2", "magical key"], "requirement": "Craft 25,000 items"}
+{"name": "craftsman 5", "reward": ["grandmasterrobe"], "requirement": "Craft 100,000 items"}
+{"name": "land owner 1", "reward": ["2", "platinum hammer"], "requirement": "Expand your shop twice"}
+{"name": "land owner 2", "reward": ["heavyhelmet"], "requirement": "Expand your shop four times"}
+{"name": "land owner 3", "reward": ["1", "magical key"], "requirement": "Expand your shop eight times"}
+{"name": "land owner 4", "reward": ["2", "starry coupon"], "requirement": "Expand your shop twelve times"}
+{"name": "land owner 5", "reward": ["silverhelmet"], "requirement": "Expand your shop to maximum size"}
+{"name": "builder 1", "reward": ["1", "mystical hourglass"], "requirement": "Build or upgrade 10 modules in your shop"}
+{"name": "builder 2", "reward": ["clericalmark"], "requirement": "Build or upgrade 35 modules in your shop"}
+{"name": "builder 3", "reward": ["1", "starry coupon"], "requirement": "Build or upgrade 75 modules in your shop"}
+{"name": "builder 4", "reward": ["1", "magical key"], "requirement": "Build or upgrade 125 modules in your shop"}
+{"name": "builder 5", "reward": ["1", "starry coupon"], "requirement": "Build or upgrade 250 modules in your shop"}
+{"name": "customer service 1", "reward": ["1500", "gold"], "requirement": "Serve 100 customers"}
+{"name": "customer service 2", "reward": ["smithgloves"], "requirement": "Serve 500 customers"}
+{"name": "customer service 3", "reward": ["2", "platinum hammer"], "requirement": "Serve 1,000 customers"}
+{"name": "customer service 4", "reward": ["2", "mystical hourglass"], "requirement": "Serve 5,000 customers"}
+{"name": "customer service 5", "reward": ["masterhat"], "requirement": "Serve 25,000 customers"}
+{"name": "quest giver 1", "reward": ["1", "mystical hourglass"], "requirement": "Help an adventurer reach level 3"}
+{"name": "quest giver 2", "reward": ["5000", "gold"], "requirement": "Help an adventurer reach level 5"}
+{"name": "quest giver 3", "reward": ["stormpendant"], "requirement": "Help an adventurer reach level 10"}
+{"name": "quest giver 4", "reward": ["2", "magical key"], "requirement": "Help an adventurer reach level 15"}
+{"name": "quest giver 5", "reward": ["3", "starry coupon"], "requirement": "Help an adventurer reach level 20"}
+{"name": "adventurer 1", "reward": ["5000", "gold"], "requirement": "Complete 5 quests"}
+{"name": "adventurer 2", "reward": ["12500", "gold"], "requirement": "Complete 10 quests"}
+{"name": "adventurer 3", "reward": ["25000", "gold"], "requirement": "Complete 15 quests"}
+{"name": "adventurer 4", "reward": ["100000", "gold"], "requirement": "Complete 25 quests"}
+{"name": "adventurer 5", "reward": ["retribution"], "requirement": "Complete 40 quests"}
+{"name": "explorer 1", "reward": ["1000", "gold"], "requirement": "Reveal all loots in 1 dungeon"}
+{"name": "explorer 2", "reward": ["sorceryring"], "requirement": "Reveal all loots in 5 dungeons"}
+{"name": "explorer 3", "reward": ["1", "mystical hourglass"], "requirement": "Reveal all loots in 10 dungeons"}
+{"name": "explorer 4", "reward": ["2", "magical key"], "requirement": "Reveal all loots in 15 dungeons"}
+{"name": "explorer 5", "reward": ["compoundcrossbow"], "requirement": "Reveal all loots in 20 dungeons"}
+{"name": "employer 1", "reward": ["shockdarts"], "requirement": "Have 2 workers hired at the same time"}
+{"name": "employer 2", "reward": ["blazepartisan"], "requirement": "Have  3 workers hired at the same time"}
+{"name": "employer 3", "reward": ["phoenixflute"], "requirement": "Have 4 workers hired at the same time"}
+{"name": "citizen 1", "reward": ["ringofthieves"], "requirement": "Make 10 contributions to the city"}
+{"name": "citizen 2", "reward": ["1", "mystical hourglass"], "requirement": "Make 50 contributions to the city"}
+{"name": "citizen 3", "reward": ["3", "platinum hammer"], "requirement": "Make 250 contributions to the city"}
+{"name": "citizen 4", "reward": ["revivepotion"], "requirement": "Make 1,000 contributions to the city"}
+{"name": "citizen 5", "reward": ["5", "platinum hammer"], "requirement": "Make 2,500 contributions to the city"}
+{"name": "learned 1", "reward": ["500", "gold"], "requirement": "Discover 10 recipes"}
+{"name": "learned 2", "reward": ["1", "magical key"], "requirement": "Discover 30 recipes"}
+{"name": "learned 3", "reward": ["greatmace"], "requirement": "Discover 100 recipes"}
+{"name": "learned 4", "reward": ["icebrand"], "requirement": "Discover 200 recipes"}
+{"name": "learned 5", "reward": ["nexus"], "requirement": "Discover 400 recipes"}
+{"name": "smithy 1", "reward": ["rareitem_volcanic_rock"], "requirement": "Discover 7 blacksmith recipes"}
+{"name": "smithy 2", "reward": ["templarsword"], "requirement": "Discover 15 blacksmith recipes"}
+{"name": "smithy 3", "reward": ["dragonheart"], "requirement": "Discover 30 blacksmith recipes"}
+{"name": "armor 1", "reward": ["rareitem_abyss_shell"], "requirement": "Discover 7 armorer recipes"}
+{"name": "armor 2", "reward": ["warriorsabaton"], "requirement": "Discover 15 armorer recipes"}
+{"name": "armor 3", "reward": ["knightgauntlets"], "requirement": "Discover 30 armorer recipes"}
+{"name": "inventor 1", "reward": ["rareitem_roar_powder"], "requirement": "Discover 6 tinkerer recipes"}
+{"name": "inventor 2", "reward": ["sharpshooter"], "requirement": "Discover 12 tinkerer recipes"}
+{"name": "inventor 3", "reward": ["blackout"], "requirement": "Discover 25 tinkerer recipes"}
+{"name": "woodland 1", "reward": ["rareitem_acid"], "requirement": "Discover 7 carpenter recipes"}
+{"name": "woodland 2", "reward": ["trustylance"], "requirement": "Discover 15 carpenter recipes"}
+{"name": "woodland 3", "reward": ["mithrilriviera"], "requirement": "Discover 30 carpenter recipes"}
+{"name": "fletcher 1", "reward": ["rareitem_phoenix_feather"], "requirement": "Discover 5 bowyer recipes"}
+{"name": "fletcher 2", "reward": ["selfbow"], "requirement": "Discover 8 bowyer recipes"}
+{"name": "fletcher 3", "reward": ["leafbow"], "requirement": "Discover 15 bowyer recipes"}
+{"name": "musical 1", "reward": ["rareitem_divine_leaf"], "requirement": "Discover 5 luthier recipes"}
+{"name": "musical 2", "reward": ["celestialharp"], "requirement": "Discover 8 luthier recipes"}
+{"name": "musical 3", "reward": ["dragonpipes"], "requirement": "Discover 15 luthier recipes"}
+{"name": "sewing 1", "reward": ["rareitem_fairys_tear"], "requirement": "Discover 7 tailor recipes"}
+{"name": "sewing 2", "reward": ["clericrobe"], "requirement": "Discover 15 tailor recipes"}
+{"name": "sewing 3", "reward": ["elvenvambrace"], "requirement": "Discover 30 tailor recipes"}
+{"name": "tanner 1", "reward": ["rareitem_golden_silk"], "requirement": "Discover 7 leather worker recipes"}
+{"name": "tanner 2", "reward": ["softboots"], "requirement": "Discover 15 leather worker recipes"}
+{"name": "tanner 3", "reward": ["divineleather"], "requirement": "Discover 30 leather worker recipes"}
+{"name": "shiny objects 1", "reward": ["rareitem_moonstone"], "requirement": "Discover 7 jeweler recipes"}
+{"name": "shiny objects 2", "reward": ["50000", "gold"], "requirement": "Discover 15 jeweler recipes"}
+{"name": "shiny objects 3", "reward": ["ringofkings"], "requirement": "Discover 30 jeweler recipes"}
+{"name": "herbalist 1", "reward": ["rareitem_acid"], "requirement": "Discover 6 druid recipes"}
+{"name": "herbalist 2", "reward": ["dusttriad"], "requirement": "Discover 12 druid recipes"}
+{"name": "herbalist 3", "reward": ["skillburr"], "requirement": "Discover 25 druid recipes"}
+{"name": "sorcery 1", "reward": ["rareitem_divine_leaf"], "requirement": "Discover 6 sorceress recipes"}
+{"name": "sorcery 2", "reward": ["energydrink"], "requirement": "Discover 12 sorceress recipes"}
+{"name": "sorcery 3", "reward": ["acidvial"], "requirement": "Discover 25 sorceress recipes"}
+{"name": "wizardry 1", "reward": ["rareitem_shadow_essence"], "requirement": "Discover 6 enchanter recipes"}
+{"name": "wizardry 2", "reward": ["firestormscroll"], "requirement": "Discover 12 enchanter recipes"}
+{"name": "wizardry 3", "reward": ["shellscroll"], "requirement": "Discover 25 enchanter recipes"}
+{"name": "builder 6", "reward": ["25000", "gold"], "requirement": "Build or upgrade 500 modules in your shop"}
+{"name": "builder 7", "reward": ["dominus"], "requirement": "Build or upgrade 750 modules in your shop"}
+{"name": "builder 8", "reward": ["anubis"], "requirement": "Build or upgrade 1,000 modules in your shop"}
+{"name": "builder 9", "reward": ["rareitem_shadow_essence"], "requirement": "Build or upgrade 1,500 modules in your shop"}
+{"name": "builder 10", "reward": ["rareitem_divine_leaf"], "requirement": "Build or upgrade 2,000 modules in your shop"}
+{"name": "citizen 6", "reward": ["evilscroll"], "requirement": "Make 5,000 contributions to the city"}
+{"name": "citizen 7", "reward": ["viperband"], "requirement": "Make 7,500 contributions to the city"}
+{"name": "citizen 8", "reward": ["250000", "gold"], "requirement": "Make 10,000 contributions to the city"}
+{"name": "veteran merchant", "reward": ["rareitem_shadow_essence"], "requirement": "Make 50,000,000 gold pieces in sales"}
+{"name": "famous merchant", "reward": ["rareitem_dragon_scale"], "requirement": "Make 100,000,000 gold pieces in sales"}
+{"name": "master merchant", "reward": ["rareitem_divine_leaf"], "requirement": "Make 250,000,000 gold pieces in sales"}
+{"name": "legendary merchant", "reward": ["rareitem_divine_leaf"], "requirement": "Make 500,000,000 gold pieces in sales"}
+{"name": "warrior 1", "reward": ["2", "mystical hourglass"], "requirement": "Collect 1 Victory Point"}
+{"name": "warrior 2", "reward": ["10", "platinum hammer"], "requirement": "Collect 5 Victory Points"}
+{"name": "warrior 3", "reward": ["3", "starry coupon"], "requirement": "Collect 10 Victory Points"}
+{"name": "warrior 4", "reward": ["1", "mithril gear"], "requirement": "Collect 25 Victory Points"}
+{"name": "warrior 5", "reward": ["epicdefender"], "requirement": "Collect 40 Victory Points"}
+{"name": "warrior 6", "reward": ["rareitem_shadow_essence"], "requirement": "Collect 70 Victory Points"}
+{"name": "warrior 7", "reward": ["masamune"], "requirement": "Collect 100 Victory Points"}
+{"name": "warrior 8", "reward": ["4", "magical key"], "requirement": "Collect 150 Victory Points"}
+{"name": "warrior 9", "reward": ["apocaplypticstaff"], "requirement": "Collect 200 Victory Points"}
+{"name": "warrior 10", "reward": ["8", "starry coupon"], "requirement": "Collect 300 Victory Points"}
