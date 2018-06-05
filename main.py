@@ -293,7 +293,7 @@ class MUCBot(sleekxmpp.ClientXMPP):
         if time.time()-self.startTime > 3.:
             delayTime = 1.0
             grpAndPBcooldown = 15. # minutes
-            print(time.strftime("%X",time.localtime()), '', msg['mucnick']+':', msg['body'])
+            print(time.strftime("%X",time.localtime()), '', color(msg['mucnick']+':', "purple"), msg['body'])
             if '@RO'.lower() in msg['body'].lower():
                 droid.notify(time.strftime("%X",time.localtime()), '{}: {}'.format(msg['mucnick'], msg['body']))
                 droid.vibrate(420)
